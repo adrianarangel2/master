@@ -128,26 +128,26 @@ table.times td {
     border: 1px solid blue;
 }
 
-#customers {
+table.customers {
     font-family: Arial, Helvetica, sans-serif;
     border-collapse: collapse;
     background-color: #cac7c7;
 }
 
-#customers td tr {
+table.customers td tr {
     border: 1px solid #ddd;
     padding: 8px;
 }
 
-#customers tr:nth-child(even) {
+table.customers tr:nth-child(even) {
     background-color: #f2f2f2;
 }
 
-#customers tr:hover {
+table.customers tr:hover {
     background-color: #ddd;
 }
 
-#customers th {
+table.customers th {
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: left;
